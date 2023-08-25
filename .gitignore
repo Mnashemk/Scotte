@@ -1,4 +1,4 @@
-# Cache objects
+open all security # Cache objects
 packer_cache/
 
 # Crash log
